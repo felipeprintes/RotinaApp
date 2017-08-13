@@ -13,10 +13,4 @@
         android:id="@+id/texto_rotina"
         android:hint="Escreva sua rotina"/>
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Salvar"
-        android:layout_marginBottom="20dp"/>
-
 </LinearLayout>
